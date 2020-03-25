@@ -1,0 +1,21 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding: 0.5rem 1rem;
+    border:1px solid #ccc;
+    margin-bottom:0.5rem;
+
+  }
+  
+.input{
+    margin-right: 1rem;
+  }
+
+  .button{
+      background-color: rgb(20, 48, 99);
+      color:white;
+      outline: none;
+      border:none;
+
+  }
